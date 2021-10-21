@@ -17,6 +17,7 @@
 </template>
 
 <script>
+
 import HomePage from './home/HomePage.vue';
 
 export default {

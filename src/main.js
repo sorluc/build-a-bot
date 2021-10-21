@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import App from './App.vue';
 // global components use example
-// import HomePage from './components/HomePage.vue';
+// import HomePage from './home/HomePage.vue';
 
 Vue.config.productionTip = false;
 // global components use example
