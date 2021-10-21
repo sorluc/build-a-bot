@@ -23,6 +23,7 @@ const parts = {
     {
       id: 3,
       description:
+        // eslint-disable-next-line max-len
         'A large three-eyed head with a shredder for a mouth -- great for crushing light medals or shredding documents.',
       title: 'Shredder',
       src: images('./head-shredder.png'),
@@ -59,6 +60,7 @@ const parts = {
     },
     {
       id: 2,
+      // eslint-disable-next-line max-len
       description: 'An arm with two independent claws -- great when you need an extra hand. Need four hands? Equip your bot with two of these arms.',
       title: 'Two Clawed',
       src: images('./arm-dual-claw.png'),
@@ -137,6 +139,7 @@ const parts = {
     },
     {
       id: 3,
+      // eslint-disable-next-line max-len
       description: 'A single-wheeled base with an accelerometer capable of higher speeds and navigating rougher terrain than the two-wheeled variety.',
       title: 'Single Wheeled',
       src: images('./base-single-wheel.png'),
@@ -153,6 +156,7 @@ const parts = {
     },
     {
       id: 5,
+      // eslint-disable-next-line max-len
       description: 'An inexpensive three-wheeled base. only capable of slow speeds and can only function on smooth surfaces.',
       title: 'Triple Wheeled',
       src: images('./base-triple-wheel.png'),
